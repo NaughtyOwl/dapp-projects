@@ -1,2 +1,1 @@
-# cripple
-An xrp wallet app
+Dapp projects
